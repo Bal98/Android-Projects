@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363438114218",
+    "firebase_url": "https://cropdectector.firebaseio.com",
+    "project_id": "cropdectector",
+    "storage_bucket": "cropdectector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363438114218:android:152335b5a406df489e57d3",
+        "android_client_info": {
+          "package_name": "com.example.cropdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363438114218-pr3qeev21ujnf9fjpj8qai64a6mu2ljc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALQyg7unsv8v0fCveesHA12OXWzQVY7cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363438114218-pr3qeev21ujnf9fjpj8qai64a6mu2ljc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
